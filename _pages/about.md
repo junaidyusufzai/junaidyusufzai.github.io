@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Machine Learning Engineer
-<!--subtitle: """<a href='#'>Affiliations</a>. Address.""" Contacts. Motto. Etc.-->
+#subtitle: """<a href='#'>Affiliations</a>. Address.""" Contacts. Motto. Etc.
 
 profile:
   align: right
