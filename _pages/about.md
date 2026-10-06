@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Engineer
+subtitle: AI Engineer
 #subtitle: """<a href='#'>Affiliations</a>. Address.""" Contacts. Motto. Etc.
 
 profile:
@@ -27,10 +27,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Master’s graduate specializing in artificial intelligence for computer vision and medical image analysis, with hands-on
-experience in deep learning models such as CNNs, diffusion models, and transformer-based architectures, as well as
-clinically validated dataset curation. Research interests focus on AI-driven solutions for real-world problems across
-computer vision and healthcare applications
+I am a deep learning researcher working on image analysis, with experience in attention mechanisms, contrastive learning, transformers, and diffusion models. My research focuses on building models that perform reliably on complex, imperfect data, including subtle visual patterns and imbalanced class distributions, and on understanding whether a model's predictions rest on meaningful evidence. I have applied these methods across a range of image analysis tasks, with medical imaging as my strongest application area, alongside image restoration, super-resolution, generation, and 3D reconstruction. I am motivated by the potential of deep learning to support better decisions and deeper visual understanding, and I aim to develop models that are accurate, interpretable, and dependable in real-world settings, from healthcare to broader computer vision problems.
+
 {% comment %} <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
