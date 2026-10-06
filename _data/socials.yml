@@ -13,6 +13,6 @@ LinkedIn: # can be any name here other than the ones already defined in the jeky
   title: LinkedIn
   url: https://www.linkedin.com/in/junaid-muhammad-9b1987112/
 Website: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/prof_pic.jpg # can be png, svg, jpg
+  logo: /assets/img/website_icon.png # can be png, svg, jpg 
   title: Personal Website
   url: https://junaidyusufzai.github.io/
