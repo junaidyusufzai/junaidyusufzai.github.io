@@ -2,8 +2,8 @@ cv:
   name: Junaid Muhammad
   label: AI Researcher
   email: engr.junaid75@gmail.com
-  location: Gwangju- 61445, South Korea
-  image: ""
+  # location: Gwangju, South Korea
+  # image: ""
   summary: Master’s graduate specializing in artificial intelligence for computer vision and medical image analysis, with hands-on experience in deep learning models such as CNNs, diffusion models, and transformer-based architectures, as well as clinically validated dataset curation. Research interests focus on AI-driven solutions for real-world problems across computer vision and healthcare applications.
 
   social_networks:
