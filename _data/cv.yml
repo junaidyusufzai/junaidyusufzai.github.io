@@ -77,7 +77,7 @@ cv:
         awarder: Chosun University, Gwangju, South Korea
 
     Publications:
-      - title: HPCRNet: A Hierarchical Pyramid Context Refinement Framework for Interpretable Hip Fracture Analysis.
+      - title: "HPCRNet: A Hierarchical Pyramid Context Refinement Framework for Interpretable Hip Fracture Analysis."
         authors:
           - Junaid Muhammad, Bumshik Lee.
         publisher: Applied Soft Computing (ASOC), In revision.
