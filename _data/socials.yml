@@ -9,10 +9,10 @@ scholar_userid: oJaUR0sAAAAJ  # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 whatsapp_number: +821021957684 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 LinkedIn: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/linkedin_icon.png # can be png, svg, jpg 
+  logo: fa-brands fa-linkedin #/assets/img/linkedin_icon.png # can be png, svg, jpg 
   title: LinkedIn
   url: https://www.linkedin.com/in/junaid-muhammad-9b1987112/
 Website: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/website_icon.png # can be png, svg, jpg 
+  logo: fa-solid fa-globe #/assets/img/website_icon.png # can be png, svg, jpg 
   title: Personal Website
   url: https://junaidyusufzai.github.io/
