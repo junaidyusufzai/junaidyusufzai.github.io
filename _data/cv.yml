@@ -86,11 +86,11 @@ cv:
 
 
       - title: "CONFERENCE PRESENTATIONS"
-        authors:
-          - ""
-        publisher: ""
-        releaseDate: ""
-        summary: ""
+        # authors:
+        #   - ""
+        # publisher: ""
+        # releaseDate: ""
+        # summary: ""
         
       - title: Dual Attention Transformer for Image Super Resolution
         authors:
