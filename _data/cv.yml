@@ -103,22 +103,22 @@ cv:
         summary:  Oral presentation, 06-09 November, 2025, Cheongju, South Korea.
         
     Skills:
-      - name: Programming Languages:
+      - name: "Programming Languages:"
         # level: Master
         # icon: fa-solid fa-hashtag
         keywords: "Python, C++"
 
-      - name: Data Science & Machine Learning:
+      - name: "Data Science & Machine Learning:"
         # level: Master
         # icon: fa-solid fa-hashtag
         keywords: "PyTorch, TensorFlow, Huggingface, timm, OpenCV, NumPy, Scikit-learn, CUDA, Jupyter Notebook, PyCharm"
 
-      - name: Specialized Area:
+      - name: "Specialized Area:"
         # level: Master
         # icon: fa-solid fa-hashtag
         keywords: "Computer Vision, Image Processing, Deep Learning, Medical Image Analysis, Medical Imaging, Dataset Curation, Transformers, Diffusion Models, Convolutional Neural Networks, Residual Learning"
 
-      - name: Research Skills:
+      - name: "Research Skills:"
         # level: Master
         # icon: fa-solid fa-hashtag
         keywords: "End-to-End Research Workflow, Scientific Writing, Benchmarking, Strong Written & Communication Skills, Data Visualization"
