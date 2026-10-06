@@ -15,10 +15,10 @@ cv:
       username: example
 
   address:
-    street: Jiho-ro, Jisan-dong
+    street: Jisan-dong
     city: Gwangju
-    region: South Jeolla
-    postalCode: 61445
+    region: South Korea
+    # postalCode: 61445
     countryCode: KR
 
   sections:
@@ -137,9 +137,9 @@ cv:
         summary: "Basic Proficiency"
 
     Interests:
-      # - name: Physics
+      - name: "Hiking, Sports, Reading, Badminton"
         # icon: fa-solid fa-tag
-        keywords: "Hiking, Sports, Reading, Badminton"
+        # keywords: "Hiking, Sports, Reading, Badminton"
 
     Certificates:
       - name: IELTS Academic
