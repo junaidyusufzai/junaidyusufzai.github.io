@@ -84,7 +84,8 @@ cv:
         releaseDate: 2026
         # url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
         summary: This paper introduces HPCRNet, a deep learning framework for multi-class hip fracture classification from radiographs, where fracture patterns are subtle, highly localized, and spread across imbalanced subtypes. Instead of relying on global dependency modeling, which can bring in redundant background information, it uses a Hierarchical Pyramid Context Refinement (HPCR) attention mechanism embedded in residual networks, incorporating supervised contrastive learning to improve separability between fracture subtypes. HPCRNet outperforms recent attention mechanisms and architectures, and Grad-CAM analysis shows its attention concentrating on diagnostically relevant fracture regions.
-      Conference Paper Presentations:
+    
+    Conference Paper Presentations:
       - title: Dual Attention Transformer for Image Super Resolution
         authors:
           - Junaid Muhammad, Bumshik Lee.
