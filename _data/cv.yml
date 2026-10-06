@@ -169,8 +169,8 @@ cv:
     References:
       - name: Dr. Arif Ullah
         icon: fa-solid fa-laptop
-        reference: Research Fellow, Queen’s University, Belfast, UK. Email: a.ullah@qub.ac.uk
+        reference: Research Fellow, Queen’s University, Belfast, UK. a.ullah@qub.ac.uk
         
       - name: Dr. Fawad
         icon: fa-solid fa-laptop #fa-solid fa-thumbtack
-        reference: Postdoctoral Researcher, Korea Institute of Energy Technology (KENTECH), South Korea. Email: Fawad1@kentech.ac.kr
+        reference: Postdoctoral Researcher, Korea Institute of Energy Technology (KENTECH), South Korea. Fawad1@kentech.ac.kr
