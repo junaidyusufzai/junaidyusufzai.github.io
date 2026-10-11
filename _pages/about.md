@@ -49,6 +49,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   html[data-theme="dark"] img[alt="Flag Counter"] {
     filter: brightness(0.8);
   }
+  article p {
+    text-align: justify;
+    hyphens: auto;
+  }
 </style>
 
 <div style="text-align: left; margin-top: 2rem;">
