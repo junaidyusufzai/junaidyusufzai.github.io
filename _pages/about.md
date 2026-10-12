@@ -51,7 +51,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
   }
   article p {
     text-align: justify;
-    hyphens: auto;
+    /* hyphens: auto; */
   }
 </style>
 
