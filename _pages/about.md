@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Engineer
+subtitle: AI Engineer | M.S. in Information and Communication Engineering
 #subtitle: """<a href='#'>Affiliations</a>. Address.""" Contacts. Motto. Etc.
 
 profile:
