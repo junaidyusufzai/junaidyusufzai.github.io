@@ -71,8 +71,8 @@ cv:
       - company: Spring Field School
         position: Computer Operator
         location: Swat, Pakistan
-        start_date: 2018-07
-        end_date: 2019-12
+        start_date: 2018
+        end_date: 2019
         highlights:
           - Worked as IT In-charge, Teacher, and Exam Invigilator.
           - Managed the school's IT infrastructure, student results and certificate processing, fee slips, and marks certificates through the ERP system.
@@ -80,8 +80,8 @@ cv:
       - company: NED University of Engineering and Technology
         position: Internee / Lab Engineer
         location: Karachi, Pakistan
-        start_date: 2017-07
-        end_date: 2018-06
+        start_date: 2017
+        end_date: 2018
         summary: Worked at the Department of Telecommunications Engineering, Faculty of Electrical and Computer Engineering.
         highlights:
           - Guided students through laboratory experiments and demonstrations.
